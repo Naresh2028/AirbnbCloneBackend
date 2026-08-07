@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AirbnbCloneBackend.Api/AirbnbCloneBackend.Api.csproj" />
+  <Project Path="AirbnbCloneBackend.Application/AirbnbCloneBackend.Application.csproj" />
+  <Project Path="AirbnbCloneBackend.Domain/AirbnbCloneBackend.Domain.csproj" />
+  <Project Path="AirbnbCloneBackend.Infrastructure/AirbnbCloneBackend.Infrastructure.csproj" />
+</Solution>
